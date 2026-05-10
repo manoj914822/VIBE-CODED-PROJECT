@@ -1,0 +1,6 @@
+{
+  "name": "End-to-End Heart Disease ML Project",
+  "description": "A comprehensive ML project structure with data ingestion, transformation, and a prediction dashboard powered by Gemini AI, following the requested streamlit project layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
